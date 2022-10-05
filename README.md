@@ -1,6 +1,6 @@
 # Engineering Salaries
 
-A compilation of websites, apps, and services to help you get the scoop on salaries, benefits, compensation, startups, and companies in general.
+A compilation of sites, apps, and services to help you get the scoop on salaries, benefits, compensation, startups, and companies in general.
 
 | Link | Contents |
 | ---- | -------- |
