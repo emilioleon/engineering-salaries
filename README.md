@@ -2,8 +2,8 @@
 
 A compilation of websites, apps, and services to help you get the scoop on salaries, benefits, compensation, startups, and companies in general.
 
-| Website | Contents |
-| ------- | ----------- |
+| Link | Contents |
+| ---- | -------- |
 | [levels.fyi](https://levels.fyi) | Salaries, benefits, compensation.|
 | [crunchbase](https://crunchbase.com) | Information about public and private companies (i.e. investment and funding information, employees, mergers and acquisitions, etc.) |
 | [payscale](https://payscale.com) | Salaries |
