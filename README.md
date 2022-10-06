@@ -4,10 +4,10 @@ A curated list of sites, apps, docs, and services to help you get the scoop on s
 
 | Link | Contents |
 | ---- | -------- |
-| [levels.fyi](https://levels.fyi) | Salaries, benefits, and compensation |
-| [crunchbase](https://crunchbase.com) | Funding, investments, mergers and acquisitions of public and private companies |
-| [payscale](https://payscale.com) | Salaries |
-| [glassdoor](https://glassdoor.com) | Salaries, benefits, compensation, interview questions, and company reviews |
-| [briefed.in](https://briefed.in/) | Information about canadian tech startups |
-| [indeed](https://indeed.com) | Jobs, company reviews, and salaries
-| [linkedin](http://linkedin.com) | Jobs, salaries, and social network
+| [Levels.fyi](https://levels.fyi) | Salaries, benefits, and compensation |
+| [Crunchbase](https://crunchbase.com) | Funding, investments, mergers and acquisitions of public and private companies |
+| [Payscale](https://payscale.com) | Salaries |
+| [Glassdoor](https://glassdoor.com) | Salaries, benefits, compensation, interview questions, and company reviews |
+| [Briefed.in](https://briefed.in/) | Information about canadian tech startups |
+| [Indeed](https://indeed.com) | Jobs, company reviews, and salaries
+| [LinkedIn](http://linkedin.com) | Jobs, salaries, and social network
