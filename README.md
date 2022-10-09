@@ -14,3 +14,4 @@ A curated list of sites, apps, docs, and services to help you get the scoop on s
 | [Briefed.in](https://briefed.in/) | Information about canadian tech startups |
 | [Indeed](https://indeed.com) | Jobs, company reviews, and salaries
 | [LinkedIn](http://linkedin.com) | Jobs, salaries, and social network
+| [Comparably](https://www.comparably.com/) | Employers, brands, and salaries |
