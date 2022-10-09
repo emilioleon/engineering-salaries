@@ -2,6 +2,8 @@
 
 A curated list of sites, apps, docs, and services to help you get the scoop on salaries, benefits, compensation, startups, and companies in general.
 
+[![Github Sponsors Badge](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/emilioleon)
+
 | Link | Contents |
 | ---- | -------- |
 | [Levels.fyi](https://levels.fyi) | Salaries, benefits, and compensation |
