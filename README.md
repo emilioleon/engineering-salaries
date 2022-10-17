@@ -15,3 +15,4 @@ A curated list of sites, apps, docs, and services to help you get the scoop on s
 | [Indeed](https://indeed.com) | Jobs, company reviews, and salaries
 | [LinkedIn](http://linkedin.com) | Jobs, salaries, and social network
 | [Comparably](https://www.comparably.com/) | Employers, brands, and salaries |
+| [Talent.com](https://talent.com) | Jobs, and salaries
