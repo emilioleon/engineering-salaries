@@ -16,3 +16,7 @@ A curated list of sites, apps, docs, and services to help you get the scoop on s
 | [LinkedIn](http://linkedin.com) | Jobs, salaries, and social network
 | [Comparably](https://www.comparably.com/) | Employers, brands, and salaries |
 | [Talent.com](https://talent.com) | Jobs, and salaries
+
+## Salary Transparent Places
+
+- [Buffer](https://buffer.com/salaries)
